@@ -1,0 +1,46 @@
+- 👋 Hi, I’m @Deepika151022
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Deepika151022/Deepika151022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+---><html>
+<head>
+<body>
+  <center><h1>My Bio-Data</h1></center><img src="passportphoto.gif">
+  <table>
+    <tr>
+      <th>Name:</th>
+      <td>Deepika</td>
+    </tr>
+    <tr>
+      <th>Age:</th>
+      <td>20</td>
+    </tr>
+    <tr>
+      <th>Degree:</th>
+      <td>B.sc(Computer Science)</td>
+    </tr>
+    <tr>
+      <th>Year :2nd Year</th>
+      <td>Bachelor of Science in Computer Science</td>
+    </tr>
+    <tr>
+      <th>Skills:</th>
+      <td>
+        <ul>
+          <li>Programming (Python, JavaScript)</li>
+          <li>Web Development</li>
+          <li>Problem Solving</li>
+          <li>Communication</li>. <li> Cloud computing</li>
+        </ul>
+      </td>
+    </tr>
+   </head>
+</body>
+</html>
